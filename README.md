@@ -3,6 +3,8 @@
 To run the program, simply copy or open the file named Main into any IDE that can run Java and run the code, you can change the values stored in the main function which act as the total number of votes and percentage each candidate gained to test the program. 
 The output will be the number of votes each candidate got and the time taken to run the program.
 
+The total execution time was 41ms.
+
 Assumptions:
 - I wasn't sure about the whole user voting part, at first I thought I was jut supposed to create a function/program that simply counted the votes per 
   candidate and supplied an output for the number of votes each candidate got, but with the user validation feature, I got confused.
