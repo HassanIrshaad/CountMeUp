@@ -14,7 +14,7 @@ Difficulties:
 - My knowldege of doing front end development for websites from scratch isn't great, therefore I didn't know where to start with that.
 - When I did my work placement, all the client-server connections were already in place, so I had to just do the back-end coding with a little front end.
 - I found this challenge particularly diffuclt due to my lack in front end development knowledge from scratch.
-- I was also particularly confused by how the program if created as a web site with a client-server model, would produce percentages for the votes per candidate? It would seem extremely inefficient to me for the program to first get the number of votes which it would already have because it would just be using an in-built counter to tally the votes, then to convert that to a percentage then to the number ot started with? This is where my assumption of programming just the function made sense to me rather than creating the whole system.
+- I was also particularly confused by how the program if created as a web site with a client-server model, would produce percentages for the votes per candidate? It would seem extremely inefficient to me for the program to first get the number of votes which it would already has because it would just be using an in-built counter to tally the votes, then to convert that to a percentage then to the number it started with? This is where my assumption of programming just the function made sense to me rather than creating the whole system.
 
 Solution:
 - The back end portion of the problem was simple, it's just a case of passing values through to the function and doing the appropriate calculations to find the number of votes.
