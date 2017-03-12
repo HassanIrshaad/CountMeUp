@@ -21,7 +21,7 @@ Solution:
 
 Further work:
 - I'm sure if I had more time to run through the process of locally setting up my tomcat servers and running my web app on it, as well as remembering how to send data back and forth between client and server, 
-  then I could have achieved the full process of allowing users to vote and see the rsults of the competition.
+  then I could have achieved the full process of allowing users to vote and see the results of the competition.
 - I managed to create a web page which allowed the user to vote only 3 times and could vote for 1 candidate 3 times or 
   3 different ones but I ran into a wall trying to figure out how to keep a hold of the votes, transfer those to a local data store, send them to the countmeup function I programmed and then present the data back to the web page.
 - I can design and format the web page, do the back end calculation and programming but the middle area is where I struggle.  
